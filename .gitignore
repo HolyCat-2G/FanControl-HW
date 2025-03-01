@@ -1,0 +1,44 @@
+# Временные файлы и кэш
+*.drc-rpt
+*.html
+*.htmlzip
+*.log
+*.zip
+*.~*
+*.rpt
+*.ses
+*.outjob
+*.tmp
+*.swp
+*.bak
+*.ResourceScope
+
+# Файлы кэша библиотеки и проекта
+__Previews/
+History/
+*.cache
+*.db
+*.idx
+*.ResourceScope
+
+# Файлы автосохранения
+*.autosave.PrjPcb
+*.autosave.SchDoc
+*.autosave.PcbDoc
+
+# Файлы, которые создаются при работе Altium
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.SchPreview
+*.PcbPreview
+*.IntLibPreview
+*.DblibPreview
+
+# Системные файлы Windows/macOS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Если используете Outjob-файлы, но не хотите их коммитить
+*.OutJob
