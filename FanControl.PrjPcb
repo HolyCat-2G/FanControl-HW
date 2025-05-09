@@ -66,6 +66,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TACHFYBD
 
+[Parameter1]
+Name=ProductNumber
+Value=АБВГ.000000.000
+
+[Parameter2]
+Name=ProductName
+Value=Блок управления вентиляторами
+
+[Parameter3]
+Name=Inclusion
+Value=Ебанько v.2
+
+[Parameter4]
+Name=Developed
+Value=Степанов
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
